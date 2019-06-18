@@ -1,5 +1,12 @@
 	public class hello{
 		public static void main(String args[]){
-			System.out.println("Hello Tavisca");	
-	}
+		String name;
+		if(args.length>0){
+			name=args[0];
+			}
+		else{
+			name="World";
+			}
+			System.out.println("Hello "+name);	
+		}
 }
