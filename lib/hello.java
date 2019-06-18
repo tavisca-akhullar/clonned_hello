@@ -1,7 +1,7 @@
 	public class hello{
 		public static void main(String args[]){
 		//Default value id "World"
-		//Author name is Aman Khullar
+		//Author name is Aman Khullar(akhullar@tavisca.in)
 		
 		String name;
 		if(args.length>0){
