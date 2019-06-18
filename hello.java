@@ -1,5 +1,7 @@
 	public class hello{
 		public static void main(String args[]){
+		//Default value id "World"
+		
 		String name;
 		if(args.length>0){
 			name=args[0];
